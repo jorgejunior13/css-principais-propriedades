@@ -1,0 +1,107 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rampart+One&family=Staatliches&display=swap');
+
+body{
+    background-color: snow;
+}
+
+.direito{
+
+    position: absolute;
+    left: 60%;
+    letter-spacing: 0.1em;
+    line-height: 50px; 
+    font-family: Arial, Helvetica, sans-serif;  
+    text-transform: capitalize; 
+    margin-right: 0px;
+    
+    
+    
+  
+    
+   
+}
+
+.preparo{
+
+    color: orange;
+    position: relative;
+    left: 30% ; 
+    font-family: 'Rampart One', cursive;
+    font-size: 18px;
+    
+    
+}
+
+.massa{
+    background-color: rgb(218, 213, 213);
+    border: 5px solid rgb(218, 213, 213);
+    width: 700px;
+    text-align: center;
+    
+    
+}
+
+
+.recheios{
+
+    background-color: rgb(218, 213, 213);
+    border: 5px solid rgb(218, 213, 213);
+    width: 700px;
+    text-align: center;
+    
+
+} 
+
+.montagem{
+    background-color: rgb(218, 213, 213);
+    border: 5px solid rgb(218, 213, 213);
+    width: 700px;
+    text-align: center;
+    
+} 
+
+.esquerdo{
+    letter-spacing: 00.1em;
+    line-height: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+   
+
+}
+
+header{
+    color: orange;
+    position: relative;
+    left: 30%;
+    line-height: 90px;
+    font-family: 'Staatliches', cursive;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+.lista{
+    position: relative;
+    left: 10%; 
+    text-transform: uppercase;
+}
+
+
+span{
+    text-decoration: line-through;
+}
+.imagem{
+    position: absolute;
+    left: 20%;
+    padding-left: 20px;
+    
+    border-radius: 50px;
+}
+.rodape{
+    position:absolute;
+    bottom:-60%;
+    left: 45%;
+   color: red;
+    
+}
